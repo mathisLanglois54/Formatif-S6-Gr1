@@ -1,4 +1,4 @@
-package etudiant11.aquarium;
+package Uziel_Ouedraogo.aquarium;
 
 public abstract class Poisson extends AbstractAnimal implements Nageur {
 
@@ -19,5 +19,8 @@ public abstract class Poisson extends AbstractAnimal implements Nageur {
         System.out.println(nom + " nage dans l'eau.");
     }
 
-    public abstract void manger();
+    public void manger(){
+        System.out.println(nom + "viens de manger. ");
+
+    };
 }
