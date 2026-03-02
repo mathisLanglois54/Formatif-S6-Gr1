@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0196bea-cf93-4d69-a7be-f8bcbbf1f3c1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/FelixLemieux/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FelixLemieux/Main.java" afterDir="false" />
+    <list default="true" id="9dca526a-8727-431a-a0c6-1ffe5f07272c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,33 +12,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/cours-243/Formatif-S6-Gr1&quot;,
-    &quot;accountId&quot;: &quot;d41df638-44cb-4b82-9928-360b9a1e2f25&quot;
-  }
-}</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="3AOlpU157HVRyGenTduKJp5VL49" />
+  <component name="ProjectId" id="3AOn7zpk8KDINoozzCBTK3eQC3k" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/2544787/OneDrive - Cégep Limoilou/cours informatique/dev Informatique/Github/Formatif-S6-Gr1&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "U:/annee1/session2/devInfo/cours1Git/Formatif-S6-Gr1",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,32 +45,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b0196bea-cf93-4d69-a7be-f8bcbbf1f3c1" name="Changes" comment="" />
-      <created>1772471681213</created>
+      <changelist id="9dca526a-8727-431a-a0c6-1ffe5f07272c" name="Changes" comment="" />
+      <created>1772472322003</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1772471681213</updated>
-      <workItem from="1772471682984" duration="27000" />
-      <workItem from="1772471740525" duration="38000" />
-      <workItem from="1772471809947" duration="42000" />
-      <workItem from="1772471871243" duration="106000" />
-      <workItem from="1772472128462" duration="169000" />
-      <workItem from="1772472344356" duration="1130000" />
+      <updated>1772472322003</updated>
+      <workItem from="1772472323417" duration="47000" />
+      <workItem from="1772472389869" duration="2253000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
