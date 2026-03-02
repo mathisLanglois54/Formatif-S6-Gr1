@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0196bea-cf93-4d69-a7be-f8bcbbf1f3c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant11/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant11/aquarium/AbstractAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant11/aquarium/Aquarium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant11/aquarium/Nageur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant11/aquarium/Piranha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/etudiant11/aquarium/PoissonClown.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/cours-243/Formatif-S6-Gr1",
+    "accountId": "d41df638-44cb-4b82-9928-360b9a1e2f25"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3AOlpU157HVRyGenTduKJp5VL49" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2544787/OneDrive - Cégep Limoilou/cours informatique/dev Informatique/Github/Formatif-S6-Gr1&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0196bea-cf93-4d69-a7be-f8bcbbf1f3c1" name="Changes" comment="" />
+      <created>1772471681213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772471681213</updated>
+      <workItem from="1772471682984" duration="27000" />
+      <workItem from="1772471740525" duration="38000" />
+      <workItem from="1772471809947" duration="42000" />
+      <workItem from="1772471871243" duration="106000" />
+      <workItem from="1772472128462" duration="169000" />
+      <workItem from="1772472344356" duration="1130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

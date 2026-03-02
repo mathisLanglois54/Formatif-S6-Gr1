@@ -1,4 +1,4 @@
-package etudiant11.aquarium;
+package Uziel_Ouedraogo.aquarium;
 
 import java.util.ArrayList;
 import java.util.List;
