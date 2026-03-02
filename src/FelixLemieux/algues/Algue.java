@@ -1,9 +1,9 @@
 package FelixLemieux.algues;
 
-public Class Algue {
+public class Algue {
 
     @Override
     public String toString(){
-        System.out.println("Une algue");
+        return "Une Algue";
     }
 }
