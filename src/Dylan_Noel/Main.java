@@ -1,9 +1,9 @@
-package etudiant16;
+package Dylan_Noel;
 
-import etudiant16.aquarium.Aquarium;
-import etudiant16.aquarium.Piranha;
-import etudiant16.aquarium.Poisson;
-import etudiant16.aquarium.PoissonClown;
+import Dylan_Noel.aquarium.Aquarium;
+import Dylan_Noel.aquarium.Piranha;
+import Dylan_Noel.aquarium.Poisson;
+import Dylan_Noel.aquarium.PoissonClown;
 
 public class Main {
     public static void main(String[] args) {
