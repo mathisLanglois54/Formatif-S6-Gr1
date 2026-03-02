@@ -1,4 +1,4 @@
-package etudiant02;
+package FelixLemieux;
 
 import etudiant02.aquarium.Aquarium;
 import etudiant02.aquarium.Piranha;
