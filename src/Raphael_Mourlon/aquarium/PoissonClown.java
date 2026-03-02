@@ -1,4 +1,4 @@
-package etudiant03.aquarium;
+package etudiant01.aquarium;
 
 public class PoissonClown extends Poisson {
 
@@ -8,6 +8,6 @@ public class PoissonClown extends Poisson {
 
     @Override
     public void manger() {
-        System.out.println(nom + " mange des frites au ketchup");
+        System.out.println(nom + " mange du plancton, des petits crustacés (copépodes) et desalgues ");
     }
 }
